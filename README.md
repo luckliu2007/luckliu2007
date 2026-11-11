@@ -1,5 +1,7 @@
 # 学习资源与学习路线
 
+> **English**: Curated, evidence-checked learning roadmaps in Chinese — AI (builders & managers), computer science, English, and investing — with links and new resources checked daily by automation.
+
 这里是我整理的学习资源仓库：按目标分类导航，配学习路线、模板和可运行的练习。研究和调查数字都对照原文核实，每天由自动化流程检查链接、发现新资源。
 
 ## 从哪里开始
